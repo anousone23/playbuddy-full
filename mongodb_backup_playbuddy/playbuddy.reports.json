@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "68b9b1e8d1d4b7c9f9558bc3"
+  },
+  "type": "User",
+  "reportedId": {
+    "$oid": "68b9affcd1d4b7c9f9558ad7"
+  },
+  "reportBy": {
+    "$oid": "689631c8c817796e096e90d4"
+  },
+  "reason": "Inappropriate name",
+  "description": "",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1757000193/user_report_images/68b9affcd1d4b7c9f9558ad7/rng9ycqvawx4natfrjuc.jpg",
+  "isAcknowledged": false,
+  "createdAt": {
+    "$date": "2025-09-04T15:36:08.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:36:08.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b7b7d1d4b7c9f9559223"
+  },
+  "type": "User",
+  "reportedId": {
+    "$oid": "68963177c817796e096e90cb"
+  },
+  "reportBy": {
+    "$oid": "6896320fc817796e096e90e3"
+  },
+  "reason": "Use of offensive words",
+  "description": "",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1757001680/user_report_images/68963177c817796e096e90cb/svec6fpzypk4umedzpuk.jpg",
+  "isAcknowledged": false,
+  "createdAt": {
+    "$date": "2025-09-04T16:00:55.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:00:55.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bab1056055749692871d65"
+  },
+  "type": "GroupChat",
+  "reportedId": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "reportBy": {
+    "$oid": "68baaef66055749692871b41"
+  },
+  "reason": "Inappropriate group content",
+  "description": "",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1757065504/groupchat_report_images/6896d13bbf57ba43ffd5a42c/jcpszgcxf1mpncqqjcke.jpg",
+  "isAcknowledged": false,
+  "createdAt": {
+    "$date": "2025-09-05T09:44:37.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T09:44:37.214Z"
+  },
+  "__v": 0
+}]

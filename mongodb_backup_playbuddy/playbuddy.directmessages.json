@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "689725f9f747ebad4e44b873"
+  },
+  "sender": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "receiver": {
+    "$oid": "68960d56ac6e68481ffe2ce2"
+  },
+  "text": "ตีแบดป่าววันนี้",
+  "image": null,
+  "isRead": true,
+  "directChatId": {
+    "$oid": "689725c0f747ebad4e44b84c"
+  },
+  "createdAt": {
+    "$date": "2025-08-09T10:42:01.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:42:04.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68972678f747ebad4e44b8bc"
+  },
+  "sender": {
+    "$oid": "68960d56ac6e68481ffe2ce2"
+  },
+  "receiver": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "text": "กี่โมงง",
+  "image": null,
+  "isRead": true,
+  "directChatId": {
+    "$oid": "689725c0f747ebad4e44b84c"
+  },
+  "createdAt": {
+    "$date": "2025-08-09T10:44:08.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:44:09.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68972686f747ebad4e44b8d6"
+  },
+  "sender": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "receiver": {
+    "$oid": "68960d56ac6e68481ffe2ce2"
+  },
+  "text": "สัก 18.00",
+  "image": null,
+  "isRead": true,
+  "directChatId": {
+    "$oid": "689725c0f747ebad4e44b84c"
+  },
+  "createdAt": {
+    "$date": "2025-08-09T10:44:22.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:44:22.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68972695f747ebad4e44b8f6"
+  },
+  "sender": {
+    "$oid": "68960d56ac6e68481ffe2ce2"
+  },
+  "receiver": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "text": "โอเคคค",
+  "image": null,
+  "isRead": true,
+  "directChatId": {
+    "$oid": "689725c0f747ebad4e44b84c"
+  },
+  "createdAt": {
+    "$date": "2025-08-09T10:44:37.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:44:41.984Z"
+  },
+  "__v": 0
+}]

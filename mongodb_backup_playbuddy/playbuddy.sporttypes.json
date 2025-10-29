@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "67712028c580b1c22a6bfd01"
+  },
+  "name": "pingpong",
+  "createdAt": {
+    "$date": "2024-12-29T10:10:48.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:10:48.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6771202dc580b1c22a6bfd04"
+  },
+  "name": "tennis",
+  "createdAt": {
+    "$date": "2024-12-29T10:10:53.006Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:10:53.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67712032c580b1c22a6bfd07"
+  },
+  "name": "volleyball",
+  "createdAt": {
+    "$date": "2024-12-29T10:10:58.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:10:58.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67712037c580b1c22a6bfd0a"
+  },
+  "name": "basketball",
+  "createdAt": {
+    "$date": "2024-12-29T10:11:03.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:11:03.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67712041c580b1c22a6bfd0d"
+  },
+  "name": "takraw",
+  "createdAt": {
+    "$date": "2024-12-29T10:11:13.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:11:13.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67712048c580b1c22a6bfd10"
+  },
+  "name": "football",
+  "createdAt": {
+    "$date": "2024-12-29T10:11:20.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:11:20.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6771205ec580b1c22a6bfd13"
+  },
+  "name": "weight lifting",
+  "createdAt": {
+    "$date": "2024-12-29T10:11:42.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:11:42.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67712066c580b1c22a6bfd16"
+  },
+  "name": "petanque",
+  "createdAt": {
+    "$date": "2024-12-29T10:11:50.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:11:50.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6771206cc580b1c22a6bfd1c"
+  },
+  "name": "futsal",
+  "createdAt": {
+    "$date": "2024-12-29T10:11:56.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:11:56.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6771227654675114ef9e7bce"
+  },
+  "name": "badminton",
+  "createdAt": {
+    "$date": "2024-12-29T10:20:38.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T10:20:38.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67737f62bc3378d9a9d996d3"
+  },
+  "name": "all"
+}]

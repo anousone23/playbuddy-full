@@ -1,0 +1,786 @@
+[{
+  "_id": {
+    "$oid": "6896cf26bf57ba43ffd5a2fd"
+  },
+  "name": "Smash Bros",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724006/group_chat_images/qoa9znjh31j5bl62eadc.jpg",
+  "description": "Bonded by brotherhood and brutal smashes.",
+  "maxMembers": 12,
+  "sportType": {
+    "$oid": "6771227654675114ef9e7bce"
+  },
+  "preferredSkill": "intermediate",
+  "members": [
+    {
+      "$oid": "67ef89c7e254e0534189b142"
+    },
+    {
+      "$oid": "68960d56ac6e68481ffe2ce2"
+    },
+    {
+      "$oid": "68963162c817796e096e90c2"
+    },
+    {
+      "$oid": "68963169c817796e096e90c5"
+    }
+  ],
+  "creator": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "admin": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "locationId": {
+    "$oid": "67713ce5465e7f780761be9e"
+  },
+  "joinedAt": {
+    "67ef89c7e254e0534189b142": {
+      "$date": "2025-08-09T04:31:34.526Z"
+    },
+    "68960d56ac6e68481ffe2ce2": {
+      "$date": "2025-09-04T14:30:33.641Z"
+    },
+    "68963162c817796e096e90c2": {
+      "$date": "2025-09-04T14:31:35.515Z"
+    },
+    "68963169c817796e096e90c5": {
+      "$date": "2025-09-04T14:32:20.520Z"
+    }
+  },
+  "lastMessage": {
+    "$oid": "68b9a36cd1d4b7c9f95586ca"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6896cf4dbf57ba43ffd5a322"
+  },
+  "name": "Birdie Bashers",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754725703/group_chat_images/itgfq8bxtygvhozenony.jpg",
+  "description": "We don’t just hit shuttles, we bash them.",
+  "maxMembers": 20,
+  "sportType": {
+    "$oid": "6771227654675114ef9e7bce"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "68963227c817796e096e90e9"
+    }
+  ],
+  "creator": {
+    "$oid": "68963227c817796e096e90e9"
+  },
+  "admin": {
+    "$oid": "68963227c817796e096e90e9"
+  },
+  "locationId": {
+    "$oid": "67713ce5465e7f780761be9e"
+  },
+  "joinedAt": {
+    "68963227c817796e096e90e9": {
+      "$date": "2025-08-09T04:32:13.279Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896cff7bf57ba43ffd5a36e"
+  },
+  "name": "Paddle Battle",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724200/group_chat_images/pzjx1wspwmae3s9m2z31.jpg",
+  "description": "For players who think every rally is a championship match.",
+  "maxMembers": 8,
+  "sportType": {
+    "$oid": "67712028c580b1c22a6bfd01"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "6896cfa8bf57ba43ffd5a357"
+    }
+  ],
+  "creator": {
+    "$oid": "6896cfa8bf57ba43ffd5a357"
+  },
+  "admin": {
+    "$oid": "6896cfa8bf57ba43ffd5a357"
+  },
+  "locationId": {
+    "$oid": "67713b61465e7f780761be8e"
+  },
+  "joinedAt": {
+    "6896cfa8bf57ba43ffd5a357": {
+      "$date": "2025-08-09T04:35:03.433Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d05fbf57ba43ffd5a395"
+  },
+  "name": "Spin Doctors",
+  "image": null,
+  "description": "Where the secret weapon is excessive side spin and bad puns.",
+  "maxMembers": 6,
+  "sportType": {
+    "$oid": "67712028c580b1c22a6bfd01"
+  },
+  "preferredSkill": "advanced",
+  "members": [
+    {
+      "$oid": "68963262c817796e096e90f5"
+    }
+  ],
+  "creator": {
+    "$oid": "68963262c817796e096e90f5"
+  },
+  "admin": {
+    "$oid": "68963262c817796e096e90f5"
+  },
+  "locationId": {
+    "$oid": "67713b61465e7f780761be8e"
+  },
+  "joinedAt": {
+    "68963262c817796e096e90f5": {
+      "$date": "2025-08-09T04:36:47.381Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d0cabf57ba43ffd5a3da"
+  },
+  "name": "Love All Legends",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754725573/group_chat_images/wbwq4wan1ptxtjqoouua.jpg",
+  "description": "Because every great match starts with love.",
+  "maxMembers": 20,
+  "sportType": {
+    "$oid": "6771202dc580b1c22a6bfd04"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "689631c8c817796e096e90d4"
+    },
+    {
+      "$oid": "6896c644bf57ba43ffd5a287"
+    },
+    {
+      "$oid": "6896c65bbf57ba43ffd5a28a"
+    },
+    {
+      "$oid": "68b9affcd1d4b7c9f9558ad7"
+    }
+  ],
+  "creator": {
+    "$oid": "689631c8c817796e096e90d4"
+  },
+  "admin": {
+    "$oid": "689631c8c817796e096e90d4"
+  },
+  "locationId": {
+    "$oid": "67713be1465e7f780761be96"
+  },
+  "joinedAt": {
+    "689631c8c817796e096e90d4": {
+      "$date": "2025-08-09T04:38:34.545Z"
+    },
+    "6896c644bf57ba43ffd5a287": {
+      "$date": "2025-09-04T15:09:10.235Z"
+    },
+    "6896c65bbf57ba43ffd5a28a": {
+      "$date": "2025-09-04T15:10:55.153Z"
+    },
+    "68b9affcd1d4b7c9f9558ad7": {
+      "$date": "2025-09-04T15:34:52.196Z"
+    }
+  },
+  "lastMessage": {
+    "$oid": "68b9b1a7d1d4b7c9f9558b82"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "name": "Ace in Your Face",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754725465/group_chat_images/czbryvdqvusndndayqlb.jpg",
+  "description": "For those who serve with no mercy (and no apologies).",
+  "maxMembers": 20,
+  "sportType": {
+    "$oid": "6771202dc580b1c22a6bfd04"
+  },
+  "preferredSkill": "advanced",
+  "members": [
+    {
+      "$oid": "68963177c817796e096e90cb"
+    },
+    {
+      "$oid": "6896c69fbf57ba43ffd5a296"
+    },
+    {
+      "$oid": "68baaef66055749692871b41"
+    },
+    {
+      "$oid": "68963171c817796e096e90c8"
+    }
+  ],
+  "creator": {
+    "$oid": "68963177c817796e096e90cb"
+  },
+  "admin": {
+    "$oid": "68963177c817796e096e90cb"
+  },
+  "locationId": {
+    "$oid": "67713be1465e7f780761be96"
+  },
+  "joinedAt": {
+    "68963177c817796e096e90cb": {
+      "$date": "2025-08-09T04:40:27.989Z"
+    },
+    "6896c69fbf57ba43ffd5a296": {
+      "$date": "2025-09-05T09:34:20.717Z"
+    },
+    "68baaef66055749692871b41": {
+      "$date": "2025-09-05T09:35:57.069Z"
+    },
+    "68963171c817796e096e90c8": {
+      "$date": "2025-09-05T09:36:51.525Z"
+    }
+  },
+  "lastMessage": {
+    "$oid": "68bab0b46055749692871d42"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6896d17dbf57ba43ffd5a453"
+  },
+  "name": "Block Party",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724121/group_chat_images/p1p9fryfg5pwlkv7c5om.jpg",
+  "description": "Everyone’s invited, as long as you can block.",
+  "maxMembers": 30,
+  "sportType": {
+    "$oid": "67712032c580b1c22a6bfd07"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "6896c644bf57ba43ffd5a287"
+    }
+  ],
+  "creator": {
+    "$oid": "6896c644bf57ba43ffd5a287"
+  },
+  "admin": {
+    "$oid": "6896c644bf57ba43ffd5a287"
+  },
+  "locationId": {
+    "$oid": "67713b61465e7f780761be8e"
+  },
+  "joinedAt": {
+    "6896c644bf57ba43ffd5a287": {
+      "$date": "2025-08-09T04:41:33.082Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d1d2bf57ba43ffd5a47e"
+  },
+  "name": "Set It and Regret It",
+  "image": null,
+  "description": "Risky plays, questionable sets, endless fun.",
+  "maxMembers": 30,
+  "sportType": {
+    "$oid": "67712032c580b1c22a6bfd07"
+  },
+  "preferredSkill": "intermediate",
+  "members": [
+    {
+      "$oid": "6896c6fdbf57ba43ffd5a2a5"
+    }
+  ],
+  "creator": {
+    "$oid": "6896c6fdbf57ba43ffd5a2a5"
+  },
+  "admin": {
+    "$oid": "6896c6fdbf57ba43ffd5a2a5"
+  },
+  "locationId": {
+    "$oid": "67713b61465e7f780761be8e"
+  },
+  "joinedAt": {
+    "6896c6fdbf57ba43ffd5a2a5": {
+      "$date": "2025-08-09T04:42:58.233Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d231bf57ba43ffd5a4aa"
+  },
+  "name": "Hoop There It Is",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724818/group_chat_images/jcle8ctcucozlrtwzkxp.jpg",
+  "description": "Where every shot is a celebration.",
+  "maxMembers": 20,
+  "sportType": {
+    "$oid": "67712037c580b1c22a6bfd0a"
+  },
+  "preferredSkill": "beginner",
+  "members": [
+    {
+      "$oid": "6896d1f9bf57ba43ffd5a493"
+    }
+  ],
+  "creator": {
+    "$oid": "6896d1f9bf57ba43ffd5a493"
+  },
+  "admin": {
+    "$oid": "6896d1f9bf57ba43ffd5a493"
+  },
+  "locationId": {
+    "$oid": "67713fa70d892a97645e375d"
+  },
+  "joinedAt": {
+    "6896d1f9bf57ba43ffd5a493": {
+      "$date": "2025-08-09T04:44:33.967Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d266bf57ba43ffd5a4cd"
+  },
+  "name": "Spike Tycoons",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724626/group_chat_images/kwrvombac1lqjmofwmer.jpg",
+  "description": "Rich in spikes, poor in self-control.",
+  "maxMembers": 30,
+  "sportType": {
+    "$oid": "67712032c580b1c22a6bfd07"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "68963137c817796e096e90b2"
+    }
+  ],
+  "creator": {
+    "$oid": "68963137c817796e096e90b2"
+  },
+  "admin": {
+    "$oid": "68963137c817796e096e90b2"
+  },
+  "locationId": {
+    "$oid": "67713fa70d892a97645e375d"
+  },
+  "joinedAt": {
+    "68963137c817796e096e90b2": {
+      "$date": "2025-08-09T04:45:26.390Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d29dbf57ba43ffd5a4f4"
+  },
+  "name": "Dunkin Donuts",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724425/group_chat_images/tgljsbwl8hdf4bxbxkwg.jpg",
+  "description": "We dunk balls… and sometimes snacks.",
+  "maxMembers": 30,
+  "sportType": {
+    "$oid": "67712037c580b1c22a6bfd0a"
+  },
+  "preferredSkill": "advanced",
+  "members": [
+    {
+      "$oid": "6896c72ebf57ba43ffd5a2ba"
+    },
+    {
+      "$oid": "6896c723bf57ba43ffd5a2b4"
+    },
+    {
+      "$oid": "6896c735bf57ba43ffd5a2bd"
+    },
+    {
+      "$oid": "6896c729bf57ba43ffd5a2b7"
+    }
+  ],
+  "creator": {
+    "$oid": "6896c72ebf57ba43ffd5a2ba"
+  },
+  "admin": {
+    "$oid": "6896c72ebf57ba43ffd5a2ba"
+  },
+  "locationId": {
+    "$oid": "67713fa70d892a97645e375d"
+  },
+  "joinedAt": {
+    "6896c72ebf57ba43ffd5a2ba": {
+      "$date": "2025-08-09T04:46:21.578Z"
+    },
+    "6896c723bf57ba43ffd5a2b4": {
+      "$date": "2025-09-04T15:38:10.888Z"
+    },
+    "6896c735bf57ba43ffd5a2bd": {
+      "$date": "2025-09-04T15:44:12.014Z"
+    },
+    "6896c729bf57ba43ffd5a2b7": {
+      "$date": "2025-09-04T15:44:58.797Z"
+    }
+  },
+  "lastMessage": {
+    "$oid": "68b9b437d1d4b7c9f9558d89"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6896d2e7bf57ba43ffd5a525"
+  },
+  "name": "Full Court Fun",
+  "image": null,
+  "description": "Hustle hard, laugh harder.",
+  "maxMembers": 25,
+  "sportType": {
+    "$oid": "6771227654675114ef9e7bce"
+  },
+  "preferredSkill": "intermediate",
+  "members": [
+    {
+      "$oid": "6896d2bcbf57ba43ffd5a510"
+    }
+  ],
+  "creator": {
+    "$oid": "6896d2bcbf57ba43ffd5a510"
+  },
+  "admin": {
+    "$oid": "6896d2bcbf57ba43ffd5a510"
+  },
+  "locationId": {
+    "$oid": "67713b61465e7f780761be8e"
+  },
+  "joinedAt": {
+    "6896d2bcbf57ba43ffd5a510": {
+      "$date": "2025-08-09T04:47:35.673Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d323bf57ba43ffd5a552"
+  },
+  "name": "Goal Diggers",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754725221/group_chat_images/p6vqracavrypxs1ppwog.jpg",
+  "description": "Scoring goals and maybe some life ambitions.",
+  "maxMembers": 30,
+  "sportType": {
+    "$oid": "67712048c580b1c22a6bfd10"
+  },
+  "preferredSkill": "intermediate",
+  "members": [
+    {
+      "$oid": "6896c635bf57ba43ffd5a281"
+    },
+    {
+      "$oid": "6896c63dbf57ba43ffd5a284"
+    },
+    {
+      "$oid": "68b9a43cd1d4b7c9f95587be"
+    }
+  ],
+  "creator": {
+    "$oid": "6896c635bf57ba43ffd5a281"
+  },
+  "admin": {
+    "$oid": "6896c635bf57ba43ffd5a281"
+  },
+  "locationId": {
+    "$oid": "67713bb4465e7f780761be92"
+  },
+  "joinedAt": {
+    "6896c635bf57ba43ffd5a281": {
+      "$date": "2025-08-09T04:48:35.538Z"
+    },
+    "6896c63dbf57ba43ffd5a284": {
+      "$date": "2025-09-04T14:35:57.534Z"
+    },
+    "68b9a43cd1d4b7c9f95587be": {
+      "$date": "2025-09-04T14:37:56.532Z"
+    }
+  },
+  "lastMessage": {
+    "$oid": "68b9a459d1d4b7c9f9558801"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6896d360bf57ba43ffd5a578"
+  },
+  "name": "Kickin It Crew",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754725359/group_chat_images/evcf0qwrd6vq7qwddg6k.jpg",
+  "description": "Friends who bond over passes and pizzas.",
+  "maxMembers": 30,
+  "sportType": {
+    "$oid": "67712048c580b1c22a6bfd10"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "6896d33cbf57ba43ffd5a563"
+    }
+  ],
+  "creator": {
+    "$oid": "6896d33cbf57ba43ffd5a563"
+  },
+  "admin": {
+    "$oid": "6896d33cbf57ba43ffd5a563"
+  },
+  "locationId": {
+    "$oid": "67713bb4465e7f780761be92"
+  },
+  "joinedAt": {
+    "6896d33cbf57ba43ffd5a563": {
+      "$date": "2025-08-09T04:49:36.467Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d40bbf57ba43ffd5a5e8"
+  },
+  "name": "Tiny Field Titans",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754725072/group_chat_images/t6c0ueltkvfibpwlv6wl.jpg",
+  "description": "Small pitch, big plays.",
+  "maxMembers": 28,
+  "sportType": {
+    "$oid": "6771206cc580b1c22a6bfd1c"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "6896c69fbf57ba43ffd5a296"
+    }
+  ],
+  "creator": {
+    "$oid": "6896c69fbf57ba43ffd5a296"
+  },
+  "admin": {
+    "$oid": "6896c69fbf57ba43ffd5a296"
+  },
+  "locationId": {
+    "$oid": "67713fa70d892a97645e375d"
+  },
+  "joinedAt": {
+    "6896c69fbf57ba43ffd5a296": {
+      "$date": "2025-08-09T04:52:27.534Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d46abf57ba43ffd5a612"
+  },
+  "name": "Five A Side Flyers",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724496/group_chat_images/cdirjkjfghcs1v78jmgy.jpg",
+  "description": "Always moving fast, even in the group chat.",
+  "maxMembers": 30,
+  "sportType": {
+    "$oid": "6771206cc580b1c22a6bfd1c"
+  },
+  "preferredSkill": "beginner",
+  "members": [
+    {
+      "$oid": "6896c69abf57ba43ffd5a293"
+    }
+  ],
+  "creator": {
+    "$oid": "6896c69abf57ba43ffd5a293"
+  },
+  "admin": {
+    "$oid": "6896c69abf57ba43ffd5a293"
+  },
+  "locationId": {
+    "$oid": "67713fa70d892a97645e375d"
+  },
+  "joinedAt": {
+    "6896c69abf57ba43ffd5a293": {
+      "$date": "2025-08-09T04:54:02.999Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d4cdbf57ba43ffd5a637"
+  },
+  "name": "Gain Train",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724309/group_chat_images/uugop511342jcbclpvys.jpg",
+  "description": "No brakes, just reps.",
+  "maxMembers": 20,
+  "sportType": {
+    "$oid": "6771205ec580b1c22a6bfd13"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "6896320fc817796e096e90e3"
+    },
+    {
+      "$oid": "6896314bc817796e096e90b9"
+    },
+    {
+      "$oid": "6896c793bf57ba43ffd5a2d8"
+    },
+    {
+      "$oid": "68963162c817796e096e90c2"
+    },
+    {
+      "$oid": "68963177c817796e096e90cb"
+    }
+  ],
+  "creator": {
+    "$oid": "6896320fc817796e096e90e3"
+  },
+  "admin": {
+    "$oid": "6896320fc817796e096e90e3"
+  },
+  "locationId": {
+    "$oid": "67713d0d465e7f780761bea2"
+  },
+  "joinedAt": {
+    "6896320fc817796e096e90e3": {
+      "$date": "2025-08-09T04:55:41.098Z"
+    },
+    "6896314bc817796e096e90b9": {
+      "$date": "2025-09-04T15:57:33.070Z"
+    },
+    "6896c793bf57ba43ffd5a2d8": {
+      "$date": "2025-09-04T15:58:33.357Z"
+    },
+    "68963162c817796e096e90c2": {
+      "$date": "2025-09-04T15:59:19.356Z"
+    },
+    "68963177c817796e096e90cb": {
+      "$date": "2025-09-04T15:59:48.394Z"
+    }
+  },
+  "lastMessage": {
+    "$oid": "68b9b794d1d4b7c9f95591e8"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "6896d4ffbf57ba43ffd5a65c"
+  },
+  "name": "Rep Republic",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754725788/group_chat_images/je9wipxykjfdhexun3vi.jpg",
+  "description": "United by sweat and sore muscles.",
+  "maxMembers": 12,
+  "sportType": {
+    "$oid": "6771205ec580b1c22a6bfd13"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "680a1851ef8b97b9e65a9495"
+    }
+  ],
+  "creator": {
+    "$oid": "680a1851ef8b97b9e65a9495"
+  },
+  "admin": {
+    "$oid": "680a1851ef8b97b9e65a9495"
+  },
+  "locationId": {
+    "$oid": "67713d0d465e7f780761bea2"
+  },
+  "joinedAt": {
+    "680a1851ef8b97b9e65a9495": {
+      "$date": "2025-08-09T04:56:31.393Z"
+    }
+  },
+  "lastMessage": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896d699bf57ba43ffd5a688"
+  },
+  "name": "Point Pint",
+  "image": "https://res.cloudinary.com/dco25fazw/image/upload/v1754724370/group_chat_images/muq0xzinpm6yfwrhuz5z.jpg",
+  "description": "Scoring points and sipping drinks—sometimes at the same time.",
+  "maxMembers": 20,
+  "sportType": {
+    "$oid": "67712066c580b1c22a6bfd16"
+  },
+  "preferredSkill": "casual",
+  "members": [
+    {
+      "$oid": "680a1897ef8b97b9e65a94bd"
+    },
+    {
+      "$oid": "680a1851ef8b97b9e65a9495"
+    },
+    {
+      "$oid": "680a18e7ef8b97b9e65a94e7"
+    },
+    {
+      "$oid": "6897227ef747ebad4e44b79d"
+    }
+  ],
+  "creator": {
+    "$oid": "680a1897ef8b97b9e65a94bd"
+  },
+  "admin": {
+    "$oid": "680a1897ef8b97b9e65a94bd"
+  },
+  "locationId": {
+    "$oid": "67713c28465e7f780761be9a"
+  },
+  "joinedAt": {
+    "680a1897ef8b97b9e65a94bd": {
+      "$date": "2025-08-09T05:03:21.500Z"
+    },
+    "680a1851ef8b97b9e65a9495": {
+      "$date": "2025-09-04T15:49:30.785Z"
+    },
+    "680a18e7ef8b97b9e65a94e7": {
+      "$date": "2025-09-04T15:50:58.674Z"
+    },
+    "6897227ef747ebad4e44b79d": {
+      "$date": "2025-09-04T15:54:20.094Z"
+    }
+  },
+  "lastMessage": {
+    "$oid": "68b9b648d1d4b7c9f9558fd1"
+  },
+  "__v": 3
+}]

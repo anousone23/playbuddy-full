@@ -1,0 +1,1022 @@
+[{
+  "_id": {
+    "$oid": "68b9a2a7d1d4b7c9f9558568"
+  },
+  "sender": {
+    "$oid": "68960d56ac6e68481ffe2ce2"
+  },
+  "text": "วันนี้สนามใช้ได้มั้ยอะ",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "67ef89c7e254e0534189b142"
+    },
+    {
+      "$oid": "68963162c817796e096e90c2"
+    },
+    {
+      "$oid": "68963169c817796e096e90c5"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896cf26bf57ba43ffd5a2fd"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:31:03.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T14:32:23.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9a2d7d1d4b7c9f95585d1"
+  },
+  "sender": {
+    "$oid": "68963162c817796e096e90c2"
+  },
+  "text": "เดียวถามเขาแปป",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "68960d56ac6e68481ffe2ce2"
+    },
+    {
+      "$oid": "68963169c817796e096e90c5"
+    },
+    {
+      "$oid": "67ef89c7e254e0534189b142"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896cf26bf57ba43ffd5a2fd"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:31:51.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T05:40:08.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9a312d1d4b7c9f955864e"
+  },
+  "sender": {
+    "$oid": "68963169c817796e096e90c5"
+  },
+  "text": "ตีได้ครับผมไปดูมาแล้ว",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "68963162c817796e096e90c2"
+    },
+    {
+      "$oid": "68960d56ac6e68481ffe2ce2"
+    },
+    {
+      "$oid": "67ef89c7e254e0534189b142"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896cf26bf57ba43ffd5a2fd"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:32:50.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T05:40:08.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9a36cd1d4b7c9f95586ca"
+  },
+  "sender": {
+    "$oid": "68960d56ac6e68481ffe2ce2"
+  },
+  "text": "โอเคงั้นเจอกัน 18",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "68963169c817796e096e90c5"
+    },
+    {
+      "$oid": "67ef89c7e254e0534189b142"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896cf26bf57ba43ffd5a2fd"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:34:20.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T05:40:08.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9a3dbd1d4b7c9f9558767"
+  },
+  "sender": {
+    "$oid": "6896c635bf57ba43ffd5a281"
+  },
+  "text": "วันนี้ใครไปบ้าง",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c63dbf57ba43ffd5a284"
+    },
+    {
+      "$oid": "68b9a43cd1d4b7c9f95587be"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d323bf57ba43ffd5a552"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:36:11.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T14:37:59.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9a3ead1d4b7c9f9558792"
+  },
+  "sender": {
+    "$oid": "6896c63dbf57ba43ffd5a284"
+  },
+  "text": "ผมครับลูกพี่",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c635bf57ba43ffd5a281"
+    },
+    {
+      "$oid": "68b9a43cd1d4b7c9f95587be"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d323bf57ba43ffd5a552"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:36:26.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T14:37:59.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9a459d1d4b7c9f9558801"
+  },
+  "sender": {
+    "$oid": "68b9a43cd1d4b7c9f95587be"
+  },
+  "text": "ผมด้วยครับลูกพี่",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c635bf57ba43ffd5a281"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d323bf57ba43ffd5a552"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T14:38:17.452Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:08:05.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9abc4d1d4b7c9f95588db"
+  },
+  "sender": {
+    "$oid": "6896c644bf57ba43ffd5a287"
+  },
+  "text": "หาเพื่อนตีเทนนิสวันนี้ ตอน 17 ค่ะ",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "689631c8c817796e096e90d4"
+    },
+    {
+      "$oid": "6896c65bbf57ba43ffd5a28a"
+    },
+    {
+      "$oid": "68b9affcd1d4b7c9f9558ad7"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d0cabf57ba43ffd5a3da"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:09:56.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:34:54.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9abe1d1d4b7c9f9558906"
+  },
+  "sender": {
+    "$oid": "689631c8c817796e096e90d4"
+  },
+  "text": "ตีด้วยคนครับ",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c644bf57ba43ffd5a287"
+    },
+    {
+      "$oid": "6896c65bbf57ba43ffd5a28a"
+    },
+    {
+      "$oid": "68b9affcd1d4b7c9f9558ad7"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d0cabf57ba43ffd5a3da"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:10:25.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:34:54.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9ac14d1d4b7c9f9558977"
+  },
+  "sender": {
+    "$oid": "6896c65bbf57ba43ffd5a28a"
+  },
+  "text": "ตามค่ะ",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "689631c8c817796e096e90d4"
+    },
+    {
+      "$oid": "68b9affcd1d4b7c9f9558ad7"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d0cabf57ba43ffd5a3da"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:11:16.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:34:54.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9ac4ad1d4b7c9f955899f"
+  },
+  "sender": {
+    "$oid": "6896c65bbf57ba43ffd5a28a"
+  },
+  "text": "เราขอชวนเพื่อนเข้ากลุ่มเพิ่มได้ไหมคะ เขาอยากตีด้วยค่ะ",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "689631c8c817796e096e90d4"
+    },
+    {
+      "$oid": "68b9affcd1d4b7c9f9558ad7"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d0cabf57ba43ffd5a3da"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:12:10.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:34:54.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9af56d1d4b7c9f9558a90"
+  },
+  "sender": {
+    "$oid": "689631c8c817796e096e90d4"
+  },
+  "text": "ได้ๆ ชวนมาเลย",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c65bbf57ba43ffd5a28a"
+    },
+    {
+      "$oid": "68b9affcd1d4b7c9f9558ad7"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d0cabf57ba43ffd5a3da"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:25:10.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:34:54.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b1a7d1d4b7c9f9558b82"
+  },
+  "sender": {
+    "$oid": "68b9affcd1d4b7c9f9558ad7"
+  },
+  "text": "เล่นด้วยครับ",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "689631c8c817796e096e90d4"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d0cabf57ba43ffd5a3da"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:35:03.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:35:05.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b2ced1d4b7c9f9558c2c"
+  },
+  "sender": {
+    "$oid": "6896c72ebf57ba43ffd5a2ba"
+  },
+  "text": "Game today?",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c723bf57ba43ffd5a2b4"
+    },
+    {
+      "$oid": "6896c735bf57ba43ffd5a2bd"
+    },
+    {
+      "$oid": "6896c729bf57ba43ffd5a2b7"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d29dbf57ba43ffd5a4f4"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:39:58.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:45:01.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b38ad1d4b7c9f9558c89"
+  },
+  "sender": {
+    "$oid": "6896c723bf57ba43ffd5a2b4"
+  },
+  "text": "I'm in",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c735bf57ba43ffd5a2bd"
+    },
+    {
+      "$oid": "6896c729bf57ba43ffd5a2b7"
+    },
+    {
+      "$oid": "6896c72ebf57ba43ffd5a2ba"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d29dbf57ba43ffd5a4f4"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:43:06.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:46:07.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b3dad1d4b7c9f9558ce7"
+  },
+  "sender": {
+    "$oid": "6896c735bf57ba43ffd5a2bd"
+  },
+  "text": "5 pm ?",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c729bf57ba43ffd5a2b7"
+    },
+    {
+      "$oid": "6896c723bf57ba43ffd5a2b4"
+    },
+    {
+      "$oid": "6896c72ebf57ba43ffd5a2ba"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d29dbf57ba43ffd5a4f4"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:44:26.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:46:07.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b40ad1d4b7c9f9558d42"
+  },
+  "sender": {
+    "$oid": "6896c729bf57ba43ffd5a2b7"
+  },
+  "text": "Works. I'll bring the ball",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c723bf57ba43ffd5a2b4"
+    },
+    {
+      "$oid": "6896c72ebf57ba43ffd5a2ba"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d29dbf57ba43ffd5a4f4"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:45:14.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:46:07.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b437d1d4b7c9f9558d89"
+  },
+  "sender": {
+    "$oid": "6896c723bf57ba43ffd5a2b4"
+  },
+  "text": "Let's gooooo 🔥🔥🔥",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c72ebf57ba43ffd5a2ba"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d29dbf57ba43ffd5a4f4"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:45:59.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:46:07.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b4ecd1d4b7c9f9558e22"
+  },
+  "sender": {
+    "$oid": "680a1897ef8b97b9e65a94bd"
+  },
+  "text": "Game today?",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "680a1851ef8b97b9e65a9495"
+    },
+    {
+      "$oid": "680a18e7ef8b97b9e65a94e7"
+    },
+    {
+      "$oid": "6897227ef747ebad4e44b79d"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d699bf57ba43ffd5a688"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:49:00.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:54:22.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b521d1d4b7c9f9558e7c"
+  },
+  "sender": {
+    "$oid": "680a1851ef8b97b9e65a9495"
+  },
+  "text": "Yes! time?",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "680a18e7ef8b97b9e65a94e7"
+    },
+    {
+      "$oid": "680a1897ef8b97b9e65a94bd"
+    },
+    {
+      "$oid": "6897227ef747ebad4e44b79d"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d699bf57ba43ffd5a688"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:49:53.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:54:22.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b60ed1d4b7c9f9558f2d"
+  },
+  "sender": {
+    "$oid": "680a18e7ef8b97b9e65a94e7"
+  },
+  "text": "Everyone's free at 6 ?",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "680a1897ef8b97b9e65a94bd"
+    },
+    {
+      "$oid": "6897227ef747ebad4e44b79d"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d699bf57ba43ffd5a688"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:53:50.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:54:22.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b635d1d4b7c9f9558fa1"
+  },
+  "sender": {
+    "$oid": "6897227ef747ebad4e44b79d"
+  },
+  "text": "yes",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "680a1897ef8b97b9e65a94bd"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d699bf57ba43ffd5a688"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:54:29.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:54:30.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b648d1d4b7c9f9558fd1"
+  },
+  "sender": {
+    "$oid": "680a1897ef8b97b9e65a94bd"
+  },
+  "text": "Okay let's goo 😛",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6897227ef747ebad4e44b79d"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d699bf57ba43ffd5a688"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:54:48.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:54:49.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b6cfd1d4b7c9f9559025"
+  },
+  "sender": {
+    "$oid": "6896320fc817796e096e90e3"
+  },
+  "text": "Who's hitting the gym today?",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896314bc817796e096e90b9"
+    },
+    {
+      "$oid": "6896c793bf57ba43ffd5a2d8"
+    },
+    {
+      "$oid": "68963162c817796e096e90c2"
+    },
+    {
+      "$oid": "68963177c817796e096e90cb"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d4cdbf57ba43ffd5a637"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:57:03.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:59:51.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b6fbd1d4b7c9f9559079"
+  },
+  "sender": {
+    "$oid": "6896314bc817796e096e90b9"
+  },
+  "text": "I'm down, 6 pm?",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896320fc817796e096e90e3"
+    },
+    {
+      "$oid": "6896c793bf57ba43ffd5a2d8"
+    },
+    {
+      "$oid": "68963162c817796e096e90c2"
+    },
+    {
+      "$oid": "68963177c817796e096e90cb"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d4cdbf57ba43ffd5a637"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:57:47.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:59:51.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b73cd1d4b7c9f95590e6"
+  },
+  "sender": {
+    "$oid": "6896c793bf57ba43ffd5a2d8"
+  },
+  "text": "yeah, let's smash chest today",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896320fc817796e096e90e3"
+    },
+    {
+      "$oid": "68963162c817796e096e90c2"
+    },
+    {
+      "$oid": "68963177c817796e096e90cb"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d4cdbf57ba43ffd5a637"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:58:52.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T15:59:51.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b75fd1d4b7c9f9559153"
+  },
+  "sender": {
+    "$oid": "68963162c817796e096e90c2"
+  },
+  "text": "Count me in",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896320fc817796e096e90e3"
+    },
+    {
+      "$oid": "68963177c817796e096e90cb"
+    },
+    {
+      "$oid": "6896c793bf57ba43ffd5a2d8"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d4cdbf57ba43ffd5a637"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T15:59:27.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:22:03.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b787d1d4b7c9f95591be"
+  },
+  "sender": {
+    "$oid": "68963177c817796e096e90cb"
+  },
+  "text": "You guys are f**ing useless, always late",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896320fc817796e096e90e3"
+    },
+    {
+      "$oid": "6896c793bf57ba43ffd5a2d8"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d4cdbf57ba43ffd5a637"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T16:00:07.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:22:03.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9b794d1d4b7c9f95591e8"
+  },
+  "sender": {
+    "$oid": "6896320fc817796e096e90e3"
+  },
+  "text": "Woh woh calm down",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "68963177c817796e096e90cb"
+    },
+    {
+      "$oid": "6896c793bf57ba43ffd5a2d8"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d4cdbf57ba43ffd5a637"
+  },
+  "createdAt": {
+    "$date": "2025-09-04T16:00:20.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:22:03.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68baaecf6055749692871b19"
+  },
+  "sender": {
+    "$oid": "68963177c817796e096e90cb"
+  },
+  "text": "Can't believe Ple missed it again. What a loser",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c69fbf57ba43ffd5a296"
+    },
+    {
+      "$oid": "68baaef66055749692871b41"
+    },
+    {
+      "$oid": "68963171c817796e096e90c8"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "createdAt": {
+    "$date": "2025-09-05T09:35:11.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T09:36:53.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68baaf0a6055749692871b82"
+  },
+  "sender": {
+    "$oid": "68baaef66055749692871b41"
+  },
+  "text": "Chiil, it was one mistake...",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "68963177c817796e096e90cb"
+    },
+    {
+      "$oid": "68963171c817796e096e90c8"
+    },
+    {
+      "$oid": "6896c69fbf57ba43ffd5a296"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "createdAt": {
+    "$date": "2025-09-05T09:36:10.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T09:37:59.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68baaf446055749692871bef"
+  },
+  "sender": {
+    "$oid": "68963171c817796e096e90c8"
+  },
+  "text": "One mistake? You always sick, stop embarrasing yourself",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "68963177c817796e096e90cb"
+    },
+    {
+      "$oid": "6896c69fbf57ba43ffd5a296"
+    },
+    {
+      "$oid": "68baaef66055749692871b41"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "createdAt": {
+    "$date": "2025-09-05T09:37:08.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T09:43:02.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68baafd26055749692871c58"
+  },
+  "sender": {
+    "$oid": "6896c69fbf57ba43ffd5a296"
+  },
+  "text": "Yeah you're trash on the court. Just quit already",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "68963177c817796e096e90cb"
+    },
+    {
+      "$oid": "68baaef66055749692871b41"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "createdAt": {
+    "$date": "2025-09-05T09:39:30.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T09:43:02.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68baafe86055749692871c88"
+  },
+  "sender": {
+    "$oid": "68963177c817796e096e90cb"
+  },
+  "text": "Seriously, we don't need dead weight here",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c69fbf57ba43ffd5a296"
+    },
+    {
+      "$oid": "68baaef66055749692871b41"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "createdAt": {
+    "$date": "2025-09-05T09:39:52.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T09:43:02.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bab0b46055749692871d42"
+  },
+  "sender": {
+    "$oid": "68baaef66055749692871b41"
+  },
+  "text": "F*** you guys i'm done",
+  "image": null,
+  "readBy": [
+    {
+      "$oid": "6896c69fbf57ba43ffd5a296"
+    },
+    {
+      "$oid": "68963177c817796e096e90cb"
+    }
+  ],
+  "groupChatId": {
+    "$oid": "6896d13bbf57ba43ffd5a42c"
+  },
+  "createdAt": {
+    "$date": "2025-09-05T09:43:16.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T11:19:30.703Z"
+  },
+  "__v": 0
+}]

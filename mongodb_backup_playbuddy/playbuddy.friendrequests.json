@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "689720fff747ebad4e44b6b6"
+  },
+  "sender": {
+    "$oid": "680a1897ef8b97b9e65a94bd"
+  },
+  "receiver": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-08-09T10:20:47.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:21:00.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6897223cf747ebad4e44b723"
+  },
+  "sender": {
+    "$oid": "680a1851ef8b97b9e65a9495"
+  },
+  "receiver": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-08-09T10:26:04.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:26:08.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6897225bf747ebad4e44b76b"
+  },
+  "sender": {
+    "$oid": "680a18e7ef8b97b9e65a94e7"
+  },
+  "receiver": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-08-09T10:26:35.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:26:40.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68972312f747ebad4e44b7bc"
+  },
+  "sender": {
+    "$oid": "6897227ef747ebad4e44b79d"
+  },
+  "receiver": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-08-09T10:29:38.873Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:29:43.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689725bbf747ebad4e44b839"
+  },
+  "sender": {
+    "$oid": "68960d56ac6e68481ffe2ce2"
+  },
+  "receiver": {
+    "$oid": "67ef89c7e254e0534189b142"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-08-09T10:40:59.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T10:41:04.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9bcc6d1d4b7c9f95592f4"
+  },
+  "sender": {
+    "$oid": "6896c793bf57ba43ffd5a2d8"
+  },
+  "receiver": {
+    "$oid": "68963162c817796e096e90c2"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-09-04T16:22:30.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T16:23:36.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bacfab605574969287226f"
+  },
+  "sender": {
+    "$oid": "68bacfa36055749692872256"
+  },
+  "receiver": {
+    "$oid": "68bacf1c605574969287222c"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-09-05T11:55:23.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T11:55:31.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bb1494e2384f55a576cdb0"
+  },
+  "sender": {
+    "$oid": "68bacfa36055749692872256"
+  },
+  "receiver": {
+    "$oid": "68bacf1c605574969287222c"
+  },
+  "status": "accepted",
+  "createdAt": {
+    "$date": "2025-09-05T16:49:24.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-05T16:49:28.263Z"
+  },
+  "__v": 0
+}]
