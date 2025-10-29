@@ -25,7 +25,7 @@
       "package": "com.anonymous.playbuddy",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyB-Szv_F--84zChQkczG0LcC5US3cyRcwA"
+          "apiKey": "your-api-key"
         }
       },
       "googleServicesFile": "./google-services.json"
